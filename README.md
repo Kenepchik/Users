@@ -15,3 +15,5 @@ Stack for SPA app:
 2. В папках server и client выполняем команду npm i
 3. После установки выполняем npm start для server и client
 4. Поменять конфиг для бд в файле server/database/db.js
+
+Также прикрепил видео с проектом
